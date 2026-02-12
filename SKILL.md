@@ -1,12 +1,10 @@
 ---
 name: space-flow-design
-description: Redesign spaces by focusing on interior experience and flow rather than
-  walls and boundaries—destroying the box to create spatial sequences that serve human
-  life.
+description: Redesign spaces by focusing on interior experience and flow rather than walls and boundaries—destroying the box to create spatial sequences that serve human life.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - compression
 - space-flow-design
